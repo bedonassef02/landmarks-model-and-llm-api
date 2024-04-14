@@ -1,0 +1,68 @@
+The Merneptah Stele, also known as the Israel Stele or the Victory Stele of Merneptah, is an inscription by Merneptah, a pharaoh in ancient Egypt who reigned from 1213 to 1203 BCE. Discovered by Flinders Petrie at Thebes in 1896, it is now housed at the Egyptian Museum in Cairo.[1][2]
+
+The text is largely an account of Merneptah's victory over the ancient Libyans and their allies, but the last three of the 28 lines deal with a separate campaign in Canaan, then part of Egypt's imperial possessions. It is sometimes referred to as the "Israel Stele" because a majority of scholars translate a set of hieroglyphs in line 27 as "Israel". Alternative translations have been advanced but are not widely accepted.[3]
+
+The stele represents the earliest textual reference to Israel and the only reference from ancient Egypt.[4] It is one of four known inscriptions from the Iron Age that date to the time of and mention ancient Israel by name, with the others being the Mesha Stele, the Tel Dan Stele, and the Kurkh Monoliths.[5][6][7] Consequently, some consider the Merneptah Stele to be Petrie's most famous discovery,[8] an opinion with which Petrie himself concurred.[1]
+
+Description and context
+
+Flinders Petrie's 1897 mirror image copy of the main part of the inscription (all 28 lines)
+The stele was discovered in 1896 by Flinders Petrie[9] in the ancient Egyptian city of Thebes,[10] and first translated by Wilhelm Spiegelberg.[9] In his "Inscriptions" chapter of Petrie's 1897 publication "Six Temples at Thebes", Spiegelberg described the stele as "engraved on the rough back of the stele of Amenhotep III, which was removed from his temple, and placed back outward, against the wall, in the forecourt of the temple of Merneptah. Owing to the rough surface, and the poor cutting, the readings in many places require careful examination... The scene at the top retains its original colouring of yellow, red, and blue. Amun is shown giving a sword to the king, who is backed by Mut on one side and by Khonsu on the other".[11]
+
+Now in the collection of the Egyptian Museum at Cairo, the stele is a black granite slab, over 3 meters (10 feet) high, and the inscription says it was carved in the 5th year of Merneptah of the 19th dynasty. Most of the text glorifies Merneptah's victories over enemies from Libya and their Sea People allies, but the final two lines mention a campaign in Canaan, where Merneptah says he defeated and destroyed Asqaluna, Gezer, Yanoam and Israel.
+
+Egypt was the dominant power in the region during the long reign of Merneptah's predecessor, Ramesses the Great, but Merneptah and one of his nearest successors, Ramesses III, faced major invasions. The problems began in Merneptah's 5th year (1208 BC), when a Libyan king invaded Egypt from the west in alliance with various northern peoples. Merneptah achieved a great victory in the summer of that year, and the inscription is mainly about this. The final lines deal with an apparently separate campaign in the East, where it seems that some of the Canaanite cities had revolted. Traditionally the Egyptians had concerned themselves only with cities, so the problem presented by Israel must have been something new – possibly attacks on Egypt's vassals in Canaan. Merneptah and Ramesses III fought off their enemies, but it was the beginning of the end of Egypt's control over Canaan – the last evidence of an Egyptian presence in the area is the name of Ramesses VI (1141–1133 BC) inscribed on a statue base from Megiddo.[12]
+
+Canaanite campaign
+
+Libyans (Tjeḥenu) are described by determinatives: foreign person + people + foreign country (=state/country of Libyan people)
+The bulk of the inscription deals with Merneptah's victory over the Libyans, but the closing lines shift to Canaan:[13][14]
+
+The princes are prostrate, saying ‘Peace!’
+Not one raises his head among the Nine Bows.
+Desolation is for Tjehenu;
+Hatti is pacified;
+Plundered is the Canaan with every evil;
+Carried off is Asqaluni;
+Seized upon is Gezer;
+Yanoam is made non-existent;
+Israel is laid waste—its seed is no more;
+Kharru has become a widow because of Egypt.
+All lands together are pacified.
+Everyone who was restless has been bound.[15]
+
+The "nine bows" is a term the Egyptians used to refer to their enemies; the actual enemies varied according to time and circumstance.[16] Hatti and Ḫurru represented the entirety of Syro-Palestine, Canaan and Israel were smaller units within the region, and Asqaluni, Gezer and Yanoam were cities within the region. Based on their determinatives, Canaan referred to the land whilst Israel referred to the people.[17]
+
+"Israel" reference
+Petrie called upon Wilhelm Spiegelberg, a German philologist in his archaeological team, to translate the inscription. Spiegelberg was puzzled by one symbol towards the end, that of a people or tribe whom Merneptah (also written Merenptah) had victoriously smitten – I.si.ri.ar? Petrie quickly suggested that it read "Israel!" Spiegelberg agreed that this translation must be correct.[1] "Won't the reverends be pleased?" remarked Petrie. At dinner that evening, Petrie, who realized the importance of the find, said: "This stele will be better known in the world than anything else I have found." The news of its discovery made headlines when it reached the English papers.[1]
+
+The line which refers to Israel is below (shown in reverse to match the English translation; the original Egyptian is in right-to-left script):
+
+While Asqaluni, Gezer and Yanoam are given the determinative for a city – a throw stick plus three mountains – the hieroglyphs that refer to Israel instead employ the throw stick (the determinative for "foreign") plus a sitting man and woman (the determinative for "people") over three vertical lines (a plural marker):
+
+The determinative "people" has been the subject of significant scholarly discussion. As early as 1955, John A. Wilson wrote, of the idea that this determinative means the "'ysrỉꜣr" were a people: "The argument is good, but not conclusive, because of the notorious carelessness of Late-Egyptian scribes and several blunders of writing in this stela".[18] This sentiment was subsequently built upon by other scholars.[19]
+
+According to The Oxford History of the Biblical World, this "foreign people ... sign is typically used by the Egyptians to signify nomadic groups or peoples, without a fixed city-state home, thus implying a seminomadic or rural status for 'Israel' at that time".[20][b] The phrase "wasted, bare of seed" is formulaic, and often used of defeated nations – it implies that the grain-store of the nation in question has been destroyed, which would result in a famine the following year, incapacitating them as a military threat to Egypt.[20]
+
+
+A portion of line 27, translated as "Israel [foreign people]"
+According to James Hoffmeier, "no Egyptologists would ever read the signs of a foreign ethnic entity as indicating a foreign land, but a people group".[21]
+
+In contrast to this apparent Israelite statelessness, the other Canaanite groups fought by Egypt: Asqaluni, Gezer, and Yano'am, are described in the stele as nascent states.[22]
+
+Alternative translations
+Alternatives to the reading "Israel" have been put forward since the stele's discovery, the two primary candidates being as follows:
+
+"Jezreel",[23][24][25] a city and valley in northern Canaan;
+A continuation of the description of Libya referring to "wearers of the sidelock"[c]
+However, these remain minority interpretations.[d]
+
+Interpretation
+The Merneptah stele is considered to be the first extra-biblical reference to ancient Israel in ancient history and is widely considered to be authentic and providing historical information.[28][29][30][31]
+
+Michael G. Hasel, arguing that prt on the stele meant grain, suggested that "Israel functioned as an agriculturally based or sedentary socioethnic entity in the late 13th century BCE"[32] and this in some degree of contrast to nomadic "Shasu" pastoralists in the region. Others disagree that prt meant grain, and Edward Lipinski wrote that "the 'classical' opposition of nomadic shepherds and settled farmers does not seem to suit the area concerned".[33] Hasel also says that this does not suggest that the Israelites were an urban people at this time, nor does it provide information about the actual social structure of the people group identified as Israel.[32]
+
+As for its location, most scholars believe that Merneptah's Israel must have been in the hill country of central Canaan.[34][35][30]
+
+Karnak reliefs
+The stele was found in Merneptah's funerary chapel in Thebes, the ancient Egyptian capital on the west bank of the Nile. On the opposite bank is the Temple of Karnak, where a fragmentary copy was found. In the 1970s Frank J. Yurco announced that some reliefs at Karnak which had been thought to depict events in the reign of Ramesses II, Merneptah's father, in fact belonged to Merneptah. The four reliefs show the capture of three cities, one of them labelled as Asqaluni; Yurco suggested that the other two were Gezer and Yanoam. The fourth shows a battle in open hilly country against an enemy shown as Canaanite. Yurco suggested that this scene was to be equated with the Israel of the stele. While the idea that Merneptah's Israelites are to be seen on the walls of the temple has had an influence on many theories regarding the significance of the inscription, not all Egyptologists accept Yurco's ascription of the reliefs to Merneptah.[36]

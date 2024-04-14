@@ -4,9 +4,10 @@
 /images
 /json
 #/keras
-/texts
+#/texts
 /embeddings
 /.idea
+.env
 
 
 #/keras/densenet_169_-saved-model-93-acc-0.90.keras
