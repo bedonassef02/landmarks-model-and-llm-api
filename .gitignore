@@ -1,0 +1,7 @@
+.env
+
+/.idea
+/embeddings
+/texts
+/keras
+/.venv
