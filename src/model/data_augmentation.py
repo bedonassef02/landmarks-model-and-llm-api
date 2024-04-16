@@ -1,4 +1,4 @@
-from keras.preprocessing.image import ImageDataGenerator
+from keras.src.legacy.preprocessing.image import ImageDataGenerator
 
 EXTRACTED_FOLDER = r"D:\BEDO\UNIVERSITY\FCAI-HU\GP\dataset\Custom\06.2"
 IMG_SIZE = (150, 150)
