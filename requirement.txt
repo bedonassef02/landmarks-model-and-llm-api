@@ -1,0 +1,8 @@
+Flask
+python-dotenv
+langchain
+langchain-community
+langchain_google_genai
+langchain_openai
+keras
+tensorflow
