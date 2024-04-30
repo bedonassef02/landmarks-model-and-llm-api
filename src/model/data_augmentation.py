@@ -1,6 +1,6 @@
-from keras.preprocessing.image import ImageDataGenerator
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
-EXTRACTED_FOLDER = r"D:\BEDO\UNIVERSITY\FCAI-HU\GP\dataset\Custom\06.2"
+EXTRACTED_FOLDER = "images"
 IMG_SIZE = (150, 150)
 
 datagen = ImageDataGenerator()

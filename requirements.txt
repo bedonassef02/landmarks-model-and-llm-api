@@ -1,0 +1,11 @@
+Flask
+python-dotenv
+langchain
+langchain_openai
+langchain_community
+langchain_google_genai
+faiss-cpu
+tiktoken
+keras==2.15.0
+tensorflow==2.15.0
+unstructured

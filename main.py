@@ -1,7 +1,7 @@
 from flask import Flask
 from src.routes.chat_route import chat_route
 from src.routes.predict_route import predict_route
-
+# import src.utils.test
 
 app = Flask(__name__)
 

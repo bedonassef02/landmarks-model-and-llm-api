@@ -2,7 +2,9 @@ import numpy as np
 from keras.preprocessing import image
 from src.model.data_augmentation import train_generator
 from src.model.load_models import models
+
 NUMBER_OF_CLASSES = 53
+
 def predict_image_class(img):
     img_array = image.img_to_array(img)
     img_array = np.expand_dims(img_array, axis=0)
@@ -14,6 +16,11 @@ def predict_image_class(img):
         predictions += model_predictions
 
     ensemble_predictions = predictions / len(models)
+    max_prediction = np.max(ensemble_predictions)
+
+    if max_prediction < 0.5:  # If maximum predicted probability is less than 50%
+        return "unknown"
+
     predicted_class_index = np.argmax(ensemble_predictions)
     predicted_class_label = train_generator.class_indices
     predicted_class_label = dict((v, k) for k, v in predicted_class_label.items())

@@ -10,14 +10,17 @@ predict_route = Blueprint('predict', __name__)
 @predict_route.route('/predict', methods=['POST'])
 def predict():
     if 'file' not in request.files:
+        print("No File Part")
         return jsonify({'error': 'No file part'}), 400
     file = request.files['file']
     if file.filename == '':
+        print("No selected file")
         return jsonify({'error': 'No selected file'}), 400
     if file:
         file_stream = BytesIO(file.read())
         img = image.load_img(file_stream, target_size=IMG_SIZE)
         predicted_class = predict_image_class(img)
-        return jsonify({'predicted_class': predicted_class})
+        return jsonify(predicted_class)
 
+    print("Unknown error occurred'")
     return jsonify({'error': 'Unknown error occurred'}), 500

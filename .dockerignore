@@ -1,0 +1,16 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore local development files
+__pycache__/
+.DS_Store
+*.log
+.idea
+.venv/
+.git
+
+models/
