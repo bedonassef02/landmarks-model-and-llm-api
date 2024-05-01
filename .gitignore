@@ -8,3 +8,4 @@
 /.venv
 /images
 /models
+chat_history.db

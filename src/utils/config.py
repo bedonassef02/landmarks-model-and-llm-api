@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 # Load environment variables from .env file
 load_dotenv()
 
-
 # Get the secrets from environment variables
 google_api_key = os.getenv('GOOGLE_API_KEY')
 openai_api_key = os.getenv('OPENAI_API_KEY')

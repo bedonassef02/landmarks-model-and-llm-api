@@ -1,8 +1,10 @@
 from flask import Blueprint, request, jsonify
-from src.model.data_augmentation import IMG_SIZE
+from src.model.helpers.data_augmentation import IMG_SIZE
 from keras.preprocessing import image
-from src.model.predict import predict_image_class
+from src.model.image_class_predictor import ImageClassPredictor
 from io import BytesIO
+
+imageClassPredictor = ImageClassPredictor()
 
 predict_route = Blueprint('predict', __name__)
 
@@ -19,7 +21,7 @@ def predict():
     if file:
         file_stream = BytesIO(file.read())
         img = image.load_img(file_stream, target_size=IMG_SIZE)
-        predicted_class = predict_image_class(img)
+        predicted_class = imageClassPredictor.predict_image_class(img)
         return jsonify(predicted_class)
 
     print("Unknown error occurred'")

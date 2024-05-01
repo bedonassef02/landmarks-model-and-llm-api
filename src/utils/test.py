@@ -1,5 +1,5 @@
 import json
-from src.llm import user_input
+from src.chat.utils.question_answerer import QuestionAnswerer
 from src.chat.managers.chat_history_manager import ChatHistoryManager
 
 chatHistoryManager = ChatHistoryManager()
