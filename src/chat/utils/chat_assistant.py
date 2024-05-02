@@ -2,6 +2,7 @@ from src.chat.managers.cache_manager import CacheManager
 from src.chat.utils.question_answerer import QuestionAnswerer
 from src.chat.managers.vector_store_manager import VectorStoreManager
 
+
 class ChatAssistant:
     def __init__(self, class_name=None):
         self.class_name = class_name

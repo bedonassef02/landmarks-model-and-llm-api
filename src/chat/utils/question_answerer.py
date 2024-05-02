@@ -15,7 +15,7 @@ class QuestionAnswerer:
 
         previous_conversations = self.chatHistoryManager.get_chat_history(user_ip)
 
-        response = chain(
+        response = chain.invoke(
             {"input_documents": docs, "question": user_question, "previous_conversations": previous_conversations},
             return_only_outputs=True)
 

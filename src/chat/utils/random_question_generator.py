@@ -20,6 +20,6 @@ class RandomQuestionGenerator:
         questions = []
         for item in random_classes:
             selected_question = random.choice(item['questions'])
-            questions.append({"class": item['name'], "question": selected_question, "emojis": item["emojis"]})
+            questions.append({"className": item['name'], "question": selected_question, "emojis": item["emojis"]})
 
         return questions

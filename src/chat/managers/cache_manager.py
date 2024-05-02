@@ -1,6 +1,6 @@
 class CacheManager:
-    def __init__(self):
-        self.cache = {}
+    # Use a class variable for the cache
+    cache = {}
 
     def get_from_cache(self, class_name, user_question):
         key = (class_name, user_question)

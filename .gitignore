@@ -1,11 +1,10 @@
 .env
+#chat_history.db
 
-/.idea
-/embeddings
+.idea/
 
-/models
+models/
 
-/.venv
-/images
-/models
-chat_history.db
+.venv/
+images/
+combined_faiss_index/

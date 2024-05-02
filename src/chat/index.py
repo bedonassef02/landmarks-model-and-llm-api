@@ -3,4 +3,4 @@ from langchain_openai import ChatOpenAI
 
 
 # model = ChatGoogleGenerativeAI(model="gemini-pro", temperature=0.9)
-model = ChatOpenAI(model="gpt-3.5-turbo", temperature=1)
+model = ChatOpenAI(model="gpt-3.5-turbo-16k", temperature=1)

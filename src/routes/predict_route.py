@@ -3,6 +3,7 @@ from src.model.helpers.data_augmentation import IMG_SIZE
 from keras.preprocessing import image
 from src.model.image_class_predictor import ImageClassPredictor
 from io import BytesIO
+from src.utils.class_name_exist import monuments_and_landmarks
 
 imageClassPredictor = ImageClassPredictor()
 
@@ -26,3 +27,7 @@ def predict():
 
     print("Unknown error occurred'")
     return jsonify({'error': 'Unknown error occurred'}), 500
+
+@predict_route.route('/classes', methods=['GET'])
+def monuments_landmarks():
+    return jsonify(monuments_and_landmarks), 200

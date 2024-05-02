@@ -19,7 +19,8 @@ class VectorStoreManager:
             return FAISS.load_local(path, self.openai_embeddings, allow_dangerous_deserialization=True)
 
         # Load raw text
-        raw_text = self.loader.load(glob="*" + class_name + "*/*.txt")
+        self.loader = DirectoryLoader('./texts', glob="*" + class_name + "*/*.txt")
+        raw_text = self.loader.load()
 
         # Split documents
         documents = self.text_splitter.split_documents(raw_text)
@@ -37,7 +38,8 @@ class VectorStoreManager:
             return FAISS.load_local(path, self.google_embeddings, allow_dangerous_deserialization=True)
 
         # Load raw text for all classes
-        raw_text = self.loader.load(glob="**/*.txt")
+        self.loader = DirectoryLoader('./texts', glob="**/*.txt")
+        raw_text = self.loader.load()
 
         # Split documents
         documents = self.text_splitter.split_documents(raw_text)
