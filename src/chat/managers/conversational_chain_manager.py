@@ -7,6 +7,7 @@ from src.chat.index import model
 class ConversationalChainManager:
     def __init__(self):
         self.prompt_template = """
+        You are an expert in Egypt landmarks, monuments, and history.
         Answer the question as full detailed as possible from the provided context \n\n
         Context:\n {context}?\n
         Question: \n{question}\n

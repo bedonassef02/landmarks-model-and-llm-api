@@ -15,6 +15,9 @@ def process_chat_request(data, user_ip):
 
     chat_assistant = ChatAssistant(class_name) if class_name and is_class_exist(class_name) else ChatAssistant()
 
+    if class_name and class_name == 'unknown':
+        return jsonify({'error': 'Sorry I Cant Provide info about this image'}), 400
+
     if class_name and is_class_exist(class_name):
         user_question = user_question or f'give me info about {class_name}'
         answer = chat_assistant.process_user_input(user_question, user_ip)
