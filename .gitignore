@@ -6,5 +6,8 @@
 models/
 
 .venv/
-images/
 combined_faiss_index/
+
+uploads/
+
+chat_history.db
